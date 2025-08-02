@@ -1,0 +1,6 @@
+1/204/Bangladeshi
+2/233/Argentinian
+3/35/Portuguese
+4/214/USA
+5/32/Pakistan
+6/35/India

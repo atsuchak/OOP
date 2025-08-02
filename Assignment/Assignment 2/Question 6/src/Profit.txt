@@ -1,0 +1,9 @@
+Item	Profit
+Penn	1000.0
+Paper	675.0
+File	500.0
+Mouse	-130.0
+Ruler	300.0
+Pencil	22.5
+Total Profit: 2367.5
+Max Profit item: Penn
