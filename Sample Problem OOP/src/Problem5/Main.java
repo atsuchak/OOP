@@ -1,5 +1,4 @@
 package Problem5;
-
 import java.util.Scanner;
 
 public class Main {
@@ -10,7 +9,7 @@ public class Main {
         Person s1 = new Student();
         s1.attend();
         Staff st1 = new Staff();
-        st1.assist()
+        st1.assist();
     }
 }
 
